@@ -1,7 +1,6 @@
 
     * {
-      font-family: Barlow Semi Condensed;
-      font-size: 16px; 
+      font-family: Barlow Semi Condensed; 
     }
     
     body {
@@ -14,8 +13,8 @@
       display: grid;
       grid-template-columns: minmax(0,1fr) minmax(0,1fr) minmax(0,1fr) minmax(0,1fr);
       grid-template-rows: auto auto;
-      gap: 32px;
-      padding: 152px;
+      gap: 2rem;
+      padding: 11%;
       justify-content: center;
       max-height: 100%;
     }
